@@ -10,7 +10,7 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "tidak",
+    "no",
     "kamu yakin gamau? 🤔",
     "aku kangen kamu 🥺",
     "kalau bilang ga, aku nangis ni...",
